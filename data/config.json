@@ -1,0 +1,22 @@
+{
+  "device": "cuda",
+  "weights_path": "data/superpoint_v1.pth",
+  "video_path": "data/images/",
+  "track_path": "data/track.csv",
+  "actual_height": 200,
+  "actual_width": 200,
+  "new_height": 200,
+  "new_width": 200,
+  "map_path": "data/map/",
+  "map_matrix_path": "data/maps.csv",
+  "borders": [
+    0,
+    0,
+    1250,
+    750
+  ],
+  "map_size": [
+    250,
+    250
+  ]
+}
